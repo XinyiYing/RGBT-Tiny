@@ -64,4 +64,4 @@ detection methods (VT-D) methods on RGBT-Tiny dataset.
 <center><img src="https://raw.github.com/XinyiYing24/RGBT-Tiny/master/pics/table2.JPG" width="1024"/></center><br><br>
 
 ## Downloads
-Downloads will be released upon acceptance.
+To access the dataset please fill following form: [https://forms.gle/EeRooNEYzXXporQt9](https://forms.gle/EeRooNEYzXXporQt9)
