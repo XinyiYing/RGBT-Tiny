@@ -1,7 +1,7 @@
 
 # *<center>RGBT-Tiny: A Large-Scale Benchmark for Visible-Thermal Tiny Object Detection</center>*
 
-***RGBT-Tiny is a large-scale visible-thermal benchmark which consists of 115 high-quality paired image sequence, 93K frames and 1.2M manual annotations, and covers abundant targets and diverse senarios. Details of this dataset can be found in our paper. Over 81\% of targets are smaller than 16x16, and we provide paired bounding box annotations with tracking id to offer an extremely challenging benchmark with wide-range applications, such as RGBT fusion, detection and tracking.***<br><br>
+***RGBT-Tiny is a large-scale visible-thermal benchmark, which consists of 115 high-quality paired image sequence, 93K frames and 1.2M manual annotations, and covers abundant targets and diverse senarios. Details of this dataset can be found in our paper. Over 81\% of targets are smaller than 16x16, and we provide paired bounding box annotations with tracking id to offer an extremely challenging benchmark with wide-range applications, such as RGBT fusion, detection and tracking.***<br><br>
 
 ## Sample Videos
 
@@ -65,3 +65,17 @@ detection methods (VT-D) methods on RGBT-Tiny dataset.
 
 ## Downloads
 To access RGBT-Tiny dataset, please fill the following form: [https://forms.gle/EeRooNEYzXXporQt9](https://forms.gle/EeRooNEYzXXporQt9)
+
+## Citiation
+```
+@article{RGBT-Tiny,
+ journal = {arXiv preprint arXiv:2406.14482},
+ author = {Xinyi Ying and Chao Xiao and Ruojing Li and Xu He and Boyang Li and Zhaoxu Li and Yingqian Wang and Mingyuan Hu and Qingyu Xu and Zaiping Lin and Miao Li and Shilin Zhou and Wei An and Weidong Sheng and Li Liu},
+ title = {Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines},
+ year = {2024},
+ month = {6},
+}
+```
+
+## Contact
+Please contact us at ***yingxinyi18@nudt.edu.cn*** for any questions.
