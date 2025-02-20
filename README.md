@@ -69,13 +69,16 @@ To access RGBT-Tiny dataset, please fill the following form: [https://forms.gle/
 ## Citiation
 ```
 @article{RGBT-Tiny,
- journal = {arXiv preprint arXiv:2406.14482},
- author = {Xinyi Ying and Chao Xiao and Ruojing Li and Xu He and Boyang Li and Zhaoxu Li and Yingqian Wang and Mingyuan Hu and Qingyu Xu and Zaiping Lin and Miao Li and Shilin Zhou and Wei An and Weidong Sheng and Li Liu},
+ journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+ author = {Xinyi Ying and Chao Xiao and Ruojing Li and Xu He and Boyang Li and Xu Cao and Zhaoxu Li and Yingqian Wang and Mingyuan Hu and Qingyu Xu and Zaiping Lin and Miao Li and Shilin Zhou and Wei An and Weidong Sheng and Li Liu},
  title = {Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines},
- year = {2024},
- month = {6},
+ year = {2025},
+ month = {2},
 }
 ```
+
+## MOT label
+MOT label for RGBT-Tiny is available at [https://github.com/xuqingyu26/HGTMT](https://github.com/xuqingyu26/HGTMT)
 
 ## Contact
 Please contact us at ***yingxinyi18@nudt.edu.cn*** for any questions.
