@@ -64,16 +64,17 @@ detection methods (VT-D) methods on RGBT-Tiny dataset.
 <center><img src="https://raw.github.com/XinyiYing/RGBT-Tiny/master/pics/table2.JPG" width="1024"/></center><br><br>
 
 ## Downloads
-To access RGBT-Tiny dataset, please fill the following form: [https://forms.gle/EeRooNEYzXXporQt9](https://forms.gle/EeRooNEYzXXporQt9)
+To access RGBT-Tiny dataset, please fill the following form: 
+[[Google Forms]](https://forms.gle/EeRooNEYzXXporQt9), 
+[[Microsoft Forms]](https://forms.office.com/r/gQMnp0gp5G)
 
 ## Citiation
 ```
 @article{RGBT-Tiny,
- journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
- author = {Xinyi Ying and Chao Xiao and Ruojing Li and Xu He and Boyang Li and Xu Cao and Zhaoxu Li and Yingqian Wang and Mingyuan Hu and Qingyu Xu and Zaiping Lin and Miao Li and Shilin Zhou and Wei An and Weidong Sheng and Li Liu},
  title = {Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines},
+ author = {Xinyi Ying and Chao Xiao and Ruojing Li and Xu He and Boyang Li and Xu Cao and Zhaoxu Li and Yingqian Wang and Mingyuan Hu and Qingyu Xu and Zaiping Lin and Miao Li and Shilin Zhou and Wei An and Weidong Sheng and Li Liu},
+ journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
  year = {2025},
- month = {2},
 }
 ```
 
