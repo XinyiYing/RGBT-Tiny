@@ -9,7 +9,7 @@
 ## Downloads
 To access RGBT-Tiny dataset, please fill the following form: 
 [[Google Forms]](https://forms.gle/EeRooNEYzXXporQt9), 
-[[Microsoft Forms]](https://forms.cloud.microsoft/r/qHTVpt2WRF)
+[[Microsoft Forms]](https://forms.cloud.microsoft/r/dQEc6dU0A2)
 
 ## Sample Videos
 
